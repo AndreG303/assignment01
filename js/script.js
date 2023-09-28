@@ -1,77 +1,130 @@
-// camelCase
-let SomeMonth
-function theMonth()
-let currentMonth
-let summerMonth
-let myLibraryFunction
+// Step 1
 
-// numeric literal expresion
+// let SomeMonth
+// function theMonth()
+// let currentMonth
+// let summerMonth
+// let myLibraryFunction
 
-4.5
+// Step 2
 
-//string literal expresion
+// 4.5
+// 'This is Andrea'
+// true
+// false
 
-'This is Andrea'
+//Step 3
 
-//Boolean literal expression
+// let todaysDate = 4 * (10/2) + 6
+// let exampleTitle = !null
 
-true
-false
+// Step 4
 
-//  complex / variable expressions.
-
-let todaysDate = 4 * (10/2) + 6
-let exampleTitle = !null
-
-// Declare (but do not assign) 9 variables for the following identifiers
-
-First_Name = firstName;
-Last_Name = lastName; 
-Address = address;
-City = city;
-State = state; 
-Zip_Code = zipCode 
-Your_Age = strYourAge 
-Referral_Source = strReferralSource;
-May_We_Contact_You = blnMayWeContactYou
+// First_Name = firstName;
+// Last_Name = lastName; 
+// Address = address;
+// City = city;
+// State = state; 
+// Zip_Code = zipCode 
+// Your_Age = strYourAge 
+// Referral_Source = strReferralSource;
+// May_We_Contact_You = blnMayWeContactYou
 
 
-//Take the 3 of the 9 variables that you created above and demonstrate 3 ways for declaring and assigning values to those variables.
+//Step 5
 
-let firstName = 'Andrea';
-let lastName = 'Diaz';
-let blnMayWeContactYou = true;
+// let firstName = 'Andrea';
+// let lastName = 'Diaz';
+// let blnMayWeContactYou = true;
 
-//Add a number and a string and display the coerced result in the browser’s console window.
+//Step 6
 
-let yearsStudying = 20
-alert('Mark has beeing stuying for ' + yearsStudying + ' years.')
+// let yearsStudying = 20
+// alert('Mark has beeing stuying for ' + yearsStudying + ' years.')
 
-let hasDegree = true
-alert('Mark has a degree ' + hasDegree + ' in science.')
+//Step 7
 
-//Is the following string literal valid? If not, how would you fix it?
+// let hasDegree = true
+// alert('Mark has a degree ' + hasDegree + ' in science.')
 
-let someString = "Who once said, 'Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.'"
-console.log(someString)
+//Step 8
 
-//Create a variable that produces a null value in the console window.create a variable that produces an undefined value in the console window.
+// let someString = "Who once said, 'Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.'"
+// console.log(someString)
 
-let y = null
-alert(y)
+//Step 9
 
-let x
-alert(x)
+// let y = null
+// alert(y)
 
-//Use the unary typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined.
+// let x
+// alert(x)
 
-let iceCream = {flavor:'Vanilla', size:'small'}
+//Step 10
 
-let size = 10
-size.toString()
+// let iceCream = {flavor:'Vanilla', size:'small'}
 
-size = Number('10')
+// let size = 10
+// size.toString()
 
-// STEP 1
-// STEP 2
-// STEP 3
+// size = Number('10')
+
+//Step 11
+
+// alert('Hello' + studentName + ',' + 'welcome to the' + JavaScript + 'class!')
+
+//Step 12
+
+// let studentName = 'Andrea';
+
+//Step 13
+
+// let course = 'javascript';
+
+//Step 14
+
+// alert('Hello' + studentName + ',' <br> + 'welcome to the' + JavaScript + 'class!')
+
+//Step 15
+
+// let Name = ${name}
+// alert(`what is your ${name}`)
+
+//Step 16
+
+// let Name = ${class}
+// alert(`what is your class`)
+
+//Step 17
+
+// let x = 10;
+// let y = 20;
+// alert(y + x == 30)
+
+//step 18
+
+// let x = 20;
+// let y = 20;
+// alert(y + x == 40)
+
+//Step 19
+
+// let x = 20;
+// alert(x * 5)
+
+//Step 20
+
+// let x = 20 / 3;
+
+//Step 21
+
+// let x = 20
+// let y = 20
+// alert(x == y)
+
+//Step 22
+
+//let x = 30
+//let y = 10
+// alert(x !== y)
+
